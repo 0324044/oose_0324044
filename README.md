@@ -10,4 +10,10 @@
 ##二、圖形介面：
 ![GITHUB](https://github.com/0324044/oose_0324044/blob/master/%E5%9C%96%E5%BD%A2%E4%BB%8B%E9%9D%A23.jpg "git圖示")
 ##三、Use case條件描述：
+##四、使用個案圖：
+![GITHUB](https://github.com/0324044/oose_0324044/blob/master/%E4%BD%BF%E7%94%A8%E5%80%8B%E6%A1%88%E5%9C%96.PNG "git圖示")
+##五、活動圖：
+
+##六、強韌圖：
+![GITHUB](https://github.com/0324044/oose_0324044/blob/master/%E5%BC%B7%E9%9F%8C%E5%9C%96.PNG "git圖示")
 
