@@ -80,4 +80,6 @@
 ![GITHUB](https://github.com/0324044/oose_0324044/blob/master/%E6%B4%BB%E5%8B%95%E5%9C%96.jpg "git圖示")
 ##六、強韌圖：
 ![GITHUB](https://github.com/0324044/oose_0324044/blob/master/%E5%BC%B7%E9%9F%8C%E5%9C%96.PNG "git圖示")
+![GITHUB](https://github.com/0324044/oose_0324044/blob/master/%E5%BC%B7%E9%9F%8C%E5%9C%96%E5%88%86%E6%9E%90.PNG
+ "git圖示")
 
