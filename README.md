@@ -82,4 +82,6 @@
 ![GITHUB](https://github.com/0324044/oose_0324044/blob/master/%E5%BC%B7%E9%9F%8C%E5%9C%96.PNG "git圖示")
 ![GITHUB](https://github.com/0324044/oose_0324044/blob/master/%E5%BC%B7%E9%9F%8C%E5%9C%96%E5%88%86%E6%9E%90.PNG
  "git圖示")
-
+##七、循序圖：
+![GITHUB](https://github.com/0324044/oose_0324044/blob/master/%E5%BE%AA%E5%BA%8F%E5%9C%961.jpg "git圖示")
+![GITHUB](https://github.com/0324044/oose_0324044/blob/master/%E5%BE%AA%E5%BA%8F%E5%9C%962.jpg "git圖示")
