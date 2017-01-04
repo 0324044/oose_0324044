@@ -85,3 +85,5 @@
 ##七、循序圖：
 ![GITHUB](https://github.com/0324044/oose_0324044/blob/master/%E5%BE%AA%E5%BA%8F%E5%9C%961.jpg "git圖示")
 ![GITHUB](https://github.com/0324044/oose_0324044/blob/master/%E5%BE%AA%E5%BA%8F%E5%9C%962.jpg "git圖示")
+##八、類別圖：
+![GITHUB](https://github.com/0324044/oose_0324044/blob/master/%E9%A1%9E%E5%88%A5%E5%9C%96.jpg "git圖示")
