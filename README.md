@@ -90,3 +90,19 @@
 ##九、初步APP介面圖：
 ###登入畫面：
 ![GITHUB](https://github.com/0324044/oose_0324044/blob/master/%E7%99%BB%E5%85%A5%E7%95%AB%E9%9D%A2.png "git圖示")
+###首頁介面：
+![GITHUB](https://github.com/0324044/oose_0324044/blob/master/%E9%A6%96%E9%A0%81%E4%BB%8B%E9%9D%A2.png "git圖示")
+###健康分析(輸入介面)：
+![GITHUB](https://github.com/0324044/oose_0324044/blob/master/%E5%81%A5%E5%BA%B7%E5%88%86%E6%9E%901.png "git圖示")
+###健康分析(分析介面)：
+![GITHUB](https://github.com/0324044/oose_0324044/blob/master/%E5%81%A5%E5%BA%B7%E5%88%86%E6%9E%902.png "git圖示")
+###食譜平台介面：
+![GITHUB](https://github.com/0324044/oose_0324044/blob/master/%E9%A3%9F%E8%AD%9C%E5%B9%B3%E5%8F%B0%E4%BB%8B%E9%9D%A2.png "git圖示")
+###代做服務系統介面：
+![GITHUB](https://github.com/0324044/oose_0324044/blob/master/%E4%BB%A3%E5%81%9A%E4%BB%8B%E9%9D%A2.png "git圖示")
+###提醒系統介面：
+![GITHUB](https://github.com/0324044/oose_0324044/blob/master/%E6%8F%90%E9%86%92%E4%BB%8B%E9%9D%A2.png "git圖示")
+###健康電子報介面：
+![GITHUB](https://github.com/0324044/oose_0324044/blob/master/%E9%9B%BB%E5%AD%90%E5%A0%B1%E4%BB%8B%E9%9D%A2.png "git圖示")
+###競爭系統介面：
+![GITHUB](https://github.com/0324044/oose_0324044/blob/master/%E7%AB%B6%E7%88%AD%E4%BB%8B%E9%9D%A2.png "git圖示")
