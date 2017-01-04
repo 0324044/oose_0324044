@@ -106,3 +106,5 @@
 ![GITHUB](https://github.com/0324044/oose_0324044/blob/master/%E9%9B%BB%E5%AD%90%E5%A0%B1%E4%BB%8B%E9%9D%A2.png "git圖示")
 ###競爭系統介面：
 ![GITHUB](https://github.com/0324044/oose_0324044/blob/master/%E7%AB%B6%E7%88%AD%E4%BB%8B%E9%9D%A2.png "git圖示")
+##十、工作分配：
+![GITHUB](https://github.com/0324044/oose_0324044/blob/master/%E5%88%86%E5%B7%A5.png "git圖示")
